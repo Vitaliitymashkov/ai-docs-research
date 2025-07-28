@@ -1,11 +1,11 @@
 # Manual
-'''
+```
 pip install uv
 
 uv init
 
 uv add langchain langchain-google-genai pypdf2 python-docx
-'''
+```
 
 ## [VC - original prompt]
 
