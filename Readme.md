@@ -1,4 +1,10 @@
 # Manual
+## To run
+```
+uv run src/main.py
+```
+
+## Initial setup
 ```
 pip install uv
 
