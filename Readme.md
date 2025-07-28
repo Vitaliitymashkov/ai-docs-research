@@ -1,11 +1,14 @@
 # Manual
+'''
 pip install uv
+
 uv init
 
 uv add langchain langchain-google-genai pypdf2 python-docx
+'''
 
+## [VC - original prompt]
 
-[VC - original prompt]
 template = """You are an expert file content search assistant. Your mission is to thoroughly search through files to find relevant information.
 
 🎯 SEARCH STRATEGY:
